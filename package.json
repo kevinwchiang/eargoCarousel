@@ -1,0 +1,11 @@
+{
+  "name": "eargoCarousel",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lightslider": "^1.1.6"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.2"
+  }
+}
