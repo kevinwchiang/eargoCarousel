@@ -7,11 +7,9 @@ $(document).ready(() => {
     thumbItem: 6,
   });
 
-  $('.button').hover(
-    function () {
-      $(this).addClass('hover');
-    }, function () {
-      $(this).removeClass('hover');
-    },
-  );
+  $('.button').hover(function () {
+    $(this).addClass('hover');
+  }, function () {
+    $(this).removeClass('hover');
+  });
 });
